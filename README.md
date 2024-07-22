@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0344-reverse-string) |
 ## Dynamic Programming
