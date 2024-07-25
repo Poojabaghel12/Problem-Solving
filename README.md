@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
