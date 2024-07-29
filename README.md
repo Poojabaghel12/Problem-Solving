@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0627-swap-salary](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0627-swap-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
+| [2024-calculate-special-bonus](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2024-calculate-special-bonus) |
 ## Divide and Conquer
 |  |
 | ------- |
