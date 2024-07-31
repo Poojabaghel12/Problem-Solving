@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 ## Two Pointers
