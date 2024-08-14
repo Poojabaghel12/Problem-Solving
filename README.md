@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
