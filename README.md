@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0624-maximum-distance-in-arrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
