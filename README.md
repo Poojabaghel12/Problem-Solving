@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
