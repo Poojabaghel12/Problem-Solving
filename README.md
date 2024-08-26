@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
