@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
