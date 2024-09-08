@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
+| [2737-row-with-maximum-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2737-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2737-row-with-maximum-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
