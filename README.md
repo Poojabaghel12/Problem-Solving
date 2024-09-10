@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
