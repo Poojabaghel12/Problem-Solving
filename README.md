@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1054-complement-of-base-10-integer) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
 | ------- |
