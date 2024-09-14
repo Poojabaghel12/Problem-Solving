@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0075-sort-colors) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
