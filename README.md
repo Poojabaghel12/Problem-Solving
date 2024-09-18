@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0056-merge-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
