@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
