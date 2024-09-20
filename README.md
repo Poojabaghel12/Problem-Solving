@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
@@ -225,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
