@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
