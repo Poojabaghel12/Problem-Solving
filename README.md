@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2406-decode-the-message](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2406-decode-the-message) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2406-decode-the-message](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
