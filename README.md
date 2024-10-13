@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Rolling Hash
 |  |
 | ------- |
