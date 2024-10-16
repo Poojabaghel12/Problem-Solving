@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
 ## Binary Tree
 |  |
 | ------- |
