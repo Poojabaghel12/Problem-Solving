@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0504-base-7) |
+| [0670-maximum-swap](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
