@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
