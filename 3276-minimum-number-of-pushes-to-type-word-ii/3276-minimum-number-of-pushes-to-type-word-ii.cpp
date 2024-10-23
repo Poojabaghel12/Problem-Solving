@@ -17,5 +17,6 @@ public:
             result += press*freq;
         }
         return result;
+    
     }
 };
