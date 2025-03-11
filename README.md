@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2556-convert-the-temperature](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2556-convert-the-temperature) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
