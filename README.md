@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3617-find-the-original-typed-string-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
 | ------- |
