@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Poojabaghel12/Problem-Solving/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Rolling Hash
 |  |
 | ------- |
