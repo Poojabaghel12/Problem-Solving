@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0268-missing-number) |
 | [0807-custom-sort-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0926-find-and-replace-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3195-separate-black-and-white-balls](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poojabaghel12/Problem-Solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Poojabaghel12/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Poojabaghel12/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Binary Tree
 |  |
 | ------- |
